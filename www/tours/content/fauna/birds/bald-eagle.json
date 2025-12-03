@@ -1,0 +1,10 @@
+{
+  "id": "bald-eagle",
+  "name": "Bald Eagle",
+  "scientific_name": "Haliaeetus leucocephalus",
+  "category": "fauna/birds",
+  "summary": "National bird of the United States. A mating pair resides at Roosevelt Lake.",
+  "description": "Once endangered due to DDT pesticide use, bald eagles have made a remarkable recovery. These majestic raptors are now regularly spotted around Roosevelt Lake, where they hunt for fish in the reservoir waters. The lake's abundant fish population provides an ideal habitat for these impressive birds. With a wingspan reaching up to 7.5 feet, bald eagles are one of the largest birds of prey in North America.",
+  "safety": "Observe from distance. Do not approach nests.",
+  "fun_fact": "Bald eagles can see fish from a mile away and have eyesight 4-8 times stronger than humans."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scorpion",
+  "name": "Arizona Bark Scorpion",
+  "scientific_name": "Centruroides sculpturatus",
+  "category": "fauna/insects",
+  "summary": "Most venomous scorpion in North America. Common in rocky desert areas.",
+  "description": "The Arizona Bark Scorpion is the only potentially dangerous scorpion species in Arizona. These nocturnal arachnids are excellent climbers and can be found on trees, rocks, and inside crevices. They glow bright green under ultraviolet (UV) light, making night hikes with a UV flashlight an interesting way to spot them. Despite their venomous nature, they primarily feed on small insects and spiders.",
+  "safety": "Shake out shoes and clothing before wearing. Check sleeping bags before use. Use a flashlight when walking at night. If stung, seek medical attention, especially for children and elderly.",
+  "fun_fact": "Scorpions have existed for over 400 million years, predating dinosaurs and surviving multiple mass extinction events."
+}
