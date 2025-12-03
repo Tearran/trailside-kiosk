@@ -1,0 +1,10 @@
+{
+  "id": "mycorrhizae",
+  "name": "Mycorrhizal Fungi",
+  "scientific_name": "Various species",
+  "category": "fungi/symbiotic",
+  "summary": "Underground fungal networks that form partnerships with plant roots. Essential for desert plant survival.",
+  "description": "Mycorrhizal fungi form mutually beneficial relationships with the roots of most desert plants. The fungi extend far beyond the plant's root system, effectively increasing the root surface area by up to 1,000 times. They help plants absorb water and nutrients, especially phosphorus, from the soil. In return, plants provide the fungi with sugars produced through photosynthesis. This partnership is crucial for plant survival in nutrient-poor desert soils. Recent research shows these fungal networks can connect multiple plants, creating a 'wood wide web' that allows plants to share resources and even warning signals.",
+  "safety": "These fungi are invisible underground and require no special safety precautions. Healthy soil ecosystems benefit all life.",
+  "fun_fact": "Over 90% of plant species form mycorrhizal associations, and these relationships have existed for over 450 million years."
+}

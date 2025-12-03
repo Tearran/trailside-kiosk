@@ -1,0 +1,42 @@
+{
+  "device": {
+    "name": "Trailside Kiosk",
+    "version": "1.0.0",
+    "location": "Roosevelt Lake, AZ"
+  },
+  "network": {
+    "ssid": "TrailsideKiosk",
+    "password": "",
+    "ap_mode": true,
+    "dns_enabled": true,
+    "http_port": 80
+  },
+  "display": {
+    "width": 80,
+    "height": 160,
+    "driver": "ST7735S",
+    "rotation": 0,
+    "backlight_pin": 15
+  },
+  "bluetooth": {
+    "enabled": true,
+    "device_name": "TrailsideKiosk_KB"
+  },
+  "menu": {
+    "timeout": 300,
+    "categories": [
+      "fauna",
+      "flora",
+      "fungi",
+      "water",
+      "geology",
+      "cultural",
+      "safety",
+      "stewardship"
+    ]
+  },
+  "storage": {
+    "stats_file": "stats.json",
+    "content_path": "www/tours/content/"
+  }
+}

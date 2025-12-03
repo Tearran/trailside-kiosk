@@ -1,0 +1,10 @@
+{
+  "id": "rattlesnake",
+  "name": "Western Diamondback Rattlesnake",
+  "scientific_name": "Crotalus atrox",
+  "category": "fauna/reptiles",
+  "summary": "Common venomous snake in the Arizona high desert. Important for rodent population control.",
+  "description": "The Western Diamondback is the most common rattlesnake species in Arizona. These reptiles play a crucial role in controlling rodent populations and maintaining ecosystem balance. They are most active during cooler hours of dawn and dusk. During hot summer days, they seek shade under rocks and in burrows. Rattlesnakes are generally non-aggressive and will warn intruders with their distinctive rattle sound before striking.",
+  "safety": "Stay on marked trails. Watch where you step and place your hands. If you hear a rattle, freeze and slowly back away. Never attempt to handle or kill snakes.",
+  "fun_fact": "Rattlesnakes add a new segment to their rattle each time they shed their skin, which can happen 2-4 times per year."
+}

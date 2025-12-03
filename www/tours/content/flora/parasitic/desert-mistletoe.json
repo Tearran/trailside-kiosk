@@ -1,0 +1,10 @@
+{
+  "id": "desert-mistletoe",
+  "name": "Desert Mistletoe",
+  "scientific_name": "Phoradendron californicum",
+  "category": "flora/parasitic",
+  "summary": "Parasitic plant that grows on desert trees and shrubs. Important food source for birds.",
+  "description": "Desert mistletoe is a hemiparasite, meaning it has some photosynthetic capability but also draws water and nutrients from its host plant through specialized structures called haustoria. Despite its parasitic nature, mistletoe plays an important ecological role. Its berries are a crucial food source for birds, especially during winter when other food is scarce. The Phainopepla, a striking black bird, is particularly dependent on mistletoe berries and helps spread the plant through its droppings.",
+  "safety": "Do not consume mistletoe berries - they are toxic to humans and can cause severe gastrointestinal distress.",
+  "fun_fact": "Desert mistletoe can live for decades on a host tree, and some individual plants may be over 50 years old."
+}
