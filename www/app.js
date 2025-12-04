@@ -97,8 +97,8 @@ class TrailsideApp {
                 ${content.scientific_name ? `<p class="scientific-name">${content.scientific_name}</p>` : ''}
                 <p class="summary">${content.summary}</p>
                 <div class="description">${content.description}</div>
-                ${content.safety ? `<div class="safety-note">⚠️ ${content.safety}</div>` : ''}
-                ${content.fun_fact ? `<div class="fun-fact">💡 Fun Fact: ${content.fun_fact}</div>` : ''}
+                ${content.safety ? `<div class="safety-note">! ${content.safety}</div>` : ''}
+                ${content.fun_fact ? `<div class="fun-fact">◈ Fun Fact: ${content.fun_fact}</div>` : ''}
             </article>
             <button class="back-btn">← Back to ${this.categoryTitle(this.currentCategory)}</button>
         `;
