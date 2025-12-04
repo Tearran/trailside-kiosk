@@ -129,14 +129,14 @@ class TrailsideApp {
     
     categoryTitle(category) {
         const titles = {
-            fauna: '🐾 Fauna',
-            flora: '🌵 Flora',
-            fungi: '🍄 Fungi',
-            water: '💧 Water Resources',
-            geology: '⛰️ Geology',
-            cultural: '🏺 Cultural Heritage',
-            safety: '⚠️ Safety Guidelines',
-            stewardship: '🌱 Land Stewardship'
+            fauna: '◉ Fauna',
+            flora: '❋ Flora',
+            fungi: '⚘ Fungi',
+            water: '≋ Water Resources',
+            geology: '▲ Geology',
+            cultural: '◆ Cultural Heritage',
+            safety: '! Safety Guidelines',
+            stewardship: '✤ Land Stewardship'
         };
         return titles[category] || category;
     }
