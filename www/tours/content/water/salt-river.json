@@ -1,0 +1,10 @@
+{
+  "id": "salt-river",
+  "name": "Salt River",
+  "scientific_name": null,
+  "category": "water",
+  "summary": "Major tributary of the Gila River, essential water source for Phoenix and surrounding areas.",
+  "description": "The Salt River is one of Arizona's most important waterways, flowing approximately 200 miles from the White Mountains through the Sonoran Desert before joining the Gila River. The river's name comes from the salt deposits found along its banks, remnants of ancient seas and salt springs. Roosevelt Lake was created by damming the Salt River in 1911, but below the dam, the river continues its journey through spectacular canyons. The Salt River Project, a complex system of dams and canals, captures and distributes water from the Salt and Verde rivers to support millions of people in the Phoenix metropolitan area. Historically, the Salt River supported riparian forests of cottonwood and willow, creating vital habitat corridors. The Hohokam people engineered extensive canal systems along the Salt River over 1,000 years ago—some modern canals follow these same ancient routes. Today, sections of the river are popular for recreation including tubing, kayaking, and fishing, though flows vary greatly depending on dam releases and precipitation. The river supports diverse wildlife including native fish species, birds, and mammals that depend on this desert lifeline.",
+  "safety": "River flows can change rapidly due to dam releases. Check current conditions before entering the water. Flash floods are a real danger during monsoon season. Never attempt to cross a flowing wash or stream.",
+  "fun_fact": "The Salt River is one of the few rivers that flows through a major metropolitan area (Phoenix) and still supports wild horse populations! These wild horses have lived along the river for generations and are a beloved sight."
+}

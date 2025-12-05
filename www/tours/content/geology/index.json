@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "tonto-basin-formation",
+      "name": "Tonto Basin Formation",
+      "summary": "Ancient rock layers revealing 1.7 billion years of Earth's geological history."
+    },
+    {
+      "id": "apache-trail-geology",
+      "name": "Apache Trail Geology",
+      "summary": "Dramatic cliffs and canyons carved by volcanic activity and water erosion."
+    },
+    {
+      "id": "desert-varnish",
+      "name": "Desert Varnish",
+      "summary": "Dark coating on rocks created by microscopic bacteria over thousands of years."
+    }
+  ]
+}
