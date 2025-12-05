@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "desert-truffle",
+      "name": "Desert Truffle",
+      "summary": "Prized edible fungus that grows underground in symbiosis with desert shrubs."
+    },
+    {
+      "id": "puffball",
+      "name": "Puffball Mushroom",
+      "summary": "Spherical fungi that release spores in a cloud when mature and touched."
+    },
+    {
+      "id": "rock-lichen",
+      "name": "Rock Lichen",
+      "summary": "Colorful organisms that are actually a partnership between fungi and algae."
+    }
+  ]
+}

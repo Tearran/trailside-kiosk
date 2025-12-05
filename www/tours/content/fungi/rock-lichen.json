@@ -1,0 +1,10 @@
+{
+  "id": "rock-lichen",
+  "name": "Rock Lichen",
+  "scientific_name": "Various species",
+  "category": "fungi",
+  "summary": "Colorful organisms that are actually a partnership between fungi and algae.",
+  "description": "Lichens are remarkable organisms—not a single species but a symbiotic partnership between fungi and algae (or cyanobacteria). The fungal partner provides structure and protection while the algal partner photosynthesizes to produce food for both. This partnership allows lichens to colonize harsh environments where neither organism could survive alone, including bare rock in the desert. Rock lichens appear as colorful patches, crusts, or leaf-like structures on boulders and cliff faces—oranges, yellows, greens, grays, and blacks. They're incredibly slow-growing—some patches may be hundreds of years old and grow less than a millimeter per year. Lichens need only air, sunlight, rain, and bare rock to survive. They extract minerals directly from the rock surface, gradually breaking down rock into soil over centuries—pioneering organisms that help create conditions for other plants. Different lichen species indicate different environmental conditions—some thrive in wet areas, others in dry; some tolerate pollution, others are extremely sensitive, making them valuable air quality indicators.",
+  "safety": "Lichens are generally harmless to touch, though some people may have skin sensitivity. Never eat lichens unless you have expert knowledge—some species contain toxic compounds.",
+  "fun_fact": "Lichens are so hardy they can survive in space! NASA has tested them on the outside of spacecraft. Some lichens can survive being completely dried out for years and spring back to life when moisture returns. The orange and yellow lichens on rocks contain compounds that were historically used to make natural dyes."
+}
