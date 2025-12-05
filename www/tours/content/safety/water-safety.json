@@ -1,0 +1,10 @@
+{
+  "id": "water-safety",
+  "name": "Water Safety",
+  "scientific_name": null,
+  "category": "safety",
+  "summary": "Critical guidelines for enjoying Roosevelt Lake safely.",
+  "description": "Roosevelt Lake offers wonderful recreational opportunities, but water safety is essential. Always wear a properly fitted life jacket (personal flotation device) when boating, kayaking, or paddleboarding—Arizona law requires children under 12 to wear life jackets on vessels. Even strong swimmers should wear life jackets as cold water, currents, and exhaustion can quickly become dangerous. Know before you go: check weather forecasts, water levels, and wind conditions. Afternoon winds on Roosevelt Lake can create choppy, hazardous conditions quickly. Tell someone your plans and expected return time. Swimming considerations: Never swim alone. Be aware that lake water is cold even when air is hot—cold water shock can cause gasping and disorientation. Don't dive into unfamiliar water—submerged hazards like rocks or trees can cause serious injuries. Boat safety: Operate at safe speeds, maintain proper distances from shore and other vessels, and never operate a boat while impaired. Watch for changing water levels—rocks and hazards appear as reservoir levels drop. Lightning danger: Monsoon storms develop rapidly. If you hear thunder, get off the water immediately—lightning can strike from storms up to 10 miles away. Seek shelter in a building or vehicle, not under trees or on open beaches.",
+  "safety": "This entire entry is safety information. Primary rules: Always wear a life jacket. Never boat or swim during storms. Know the weather forecast. Never swim alone. Children must be supervised at all times.",
+  "fun_fact": "Roosevelt Lake's water comes from snowmelt in the White Mountains, so it stays cool year-round—typically 60-75°F even in summer. Cold water is much more dangerous than warm water because it can cause hypothermia even in hot weather!"
+}

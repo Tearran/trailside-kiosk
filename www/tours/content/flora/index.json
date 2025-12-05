@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "saguaro-cactus",
+      "name": "Saguaro Cactus",
+      "summary": "Iconic symbol of the American West, can live over 200 years and grow 40 feet tall."
+    },
+    {
+      "id": "palo-verde",
+      "name": "Palo Verde",
+      "summary": "Arizona's state tree with distinctive green bark that photosynthesizes."
+    },
+    {
+      "id": "mesquite",
+      "name": "Mesquite",
+      "summary": "Deeply rooted tree producing nutritious pods used by wildlife and humans for millennia."
+    },
+    {
+      "id": "creosote-bush",
+      "name": "Creosote Bush",
+      "summary": "Ancient desert survivor with a distinctive rain-scent, some colonies are over 11,000 years old."
+    }
+  ]
+}

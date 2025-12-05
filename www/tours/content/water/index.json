@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "roosevelt-lake",
+      "name": "Roosevelt Lake",
+      "summary": "Largest lake in central Arizona. Created by Theodore Roosevelt Dam, completed in 1911."
+    },
+    {
+      "id": "salt-river",
+      "name": "Salt River",
+      "summary": "Major tributary of the Gila River, essential water source for Phoenix and surrounding areas."
+    },
+    {
+      "id": "desert-springs",
+      "name": "Desert Springs",
+      "summary": "Rare oases that support unique ecosystems and have sustained life for thousands of years."
+    }
+  ]
+}

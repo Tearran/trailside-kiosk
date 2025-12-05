@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "leave-no-trace",
+      "name": "Leave No Trace",
+      "summary": "Seven principles for minimizing your impact while enjoying the outdoors."
+    },
+    {
+      "id": "native-plant-protection",
+      "name": "Native Plant Protection",
+      "summary": "Understanding why desert plants need our respect and protection."
+    },
+    {
+      "id": "responsible-recreation",
+      "name": "Responsible Recreation",
+      "summary": "How to enjoy Roosevelt Lake while preserving it for future generations."
+    }
+  ]
+}

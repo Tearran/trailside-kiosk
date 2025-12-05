@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "wildlife-coexistence",
+      "name": "Wildlife Coexistence",
+      "summary": "Guidelines for safely sharing the trail with desert wildlife. Respect and awareness ensure everyone's safety."
+    },
+    {
+      "id": "heat-safety",
+      "name": "Heat Safety",
+      "summary": "Essential knowledge for staying safe in Arizona's intense desert heat."
+    },
+    {
+      "id": "water-safety",
+      "name": "Water Safety",
+      "summary": "Critical guidelines for enjoying Roosevelt Lake safely."
+    }
+  ]
+}

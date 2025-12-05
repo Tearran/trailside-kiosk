@@ -1,0 +1,10 @@
+{
+  "id": "heat-safety",
+  "name": "Heat Safety",
+  "scientific_name": null,
+  "category": "safety",
+  "summary": "Essential knowledge for staying safe in Arizona's intense desert heat.",
+  "description": "Arizona's desert heat is not to be underestimated—summer temperatures frequently exceed 100°F, and ground temperatures can reach 180°F. Understanding heat safety is crucial for enjoying the outdoors safely. Hydration is paramount: drink water before you feel thirsty, as thirst is a sign you're already dehydrated. In hot conditions, adults need 1-2 quarts of water per hour during activity. Plan activities for early morning or evening when temperatures are cooler. Know the signs of heat-related illness: Heat exhaustion includes heavy sweating, weakness, cold and clammy skin, nausea, and fainting. Move to shade, drink water, and cool the body. Heat stroke is life-threatening—symptoms include hot dry skin (no sweating), confusion, unconsciousness, and body temperature above 103°F. Call 911 immediately. Prevention strategies include wearing light-colored, loose-fitting clothing, using sunscreen (sun exposure increases dehydration), taking frequent breaks in shade, and avoiding alcohol and caffeine which worsen dehydration. Never leave children or pets in vehicles—interior temperatures can reach lethal levels in minutes. Be especially cautious if you have health conditions or take medications that affect body temperature regulation.",
+  "safety": "This entire entry is safety information. Key points: Drink more water than you think you need. Start activities early. Know heat illness symptoms. If someone shows signs of heat stroke, call 911 and cool them immediately.",
+  "fun_fact": "The human body can lose over 2 liters of sweat per hour in extreme heat! In Arizona's low humidity, sweat evaporates so quickly you may not realize how much water you're losing. Dark colored surfaces can be 40-60°F hotter than air temperature."
+}

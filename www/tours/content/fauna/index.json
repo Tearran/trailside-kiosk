@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "coyote",
+      "name": "Coyote",
+      "summary": "Highly adaptable canine whose haunting howls echo across the desert at dusk."
+    },
+    {
+      "id": "javelina",
+      "name": "Javelina",
+      "summary": "Pig-like mammals that travel in family groups, foraging for desert plants."
+    },
+    {
+      "id": "gila-monster",
+      "name": "Gila Monster",
+      "summary": "North America's only venomous lizard, covered in distinctive beaded scales."
+    },
+    {
+      "id": "great-blue-heron",
+      "name": "Great Blue Heron",
+      "summary": "Majestic wading bird standing over 4 feet tall, often seen hunting along the lakeshore."
+    },
+    {
+      "id": "bald-eagle",
+      "name": "Bald Eagle",
+      "summary": "America's national symbol nests year-round at Roosevelt Lake."
+    }
+  ]
+}
